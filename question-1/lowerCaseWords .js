@@ -1,3 +1,5 @@
+//Seyed Ali Farahmand
+//101207308
 const lowerCaseWords = (arr) => {
     return new Promise(function(resolve, reject){
         var result = arr.filter(e => typeof e === 'string' && e !== '') 

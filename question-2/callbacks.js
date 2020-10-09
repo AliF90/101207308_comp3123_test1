@@ -1,3 +1,5 @@
+//Seyed Ali Farahmand
+//101207308
 const resolvedPromise = () =>{
     return new Promise(function(resolve, reject){
         setTimeout(() => {
